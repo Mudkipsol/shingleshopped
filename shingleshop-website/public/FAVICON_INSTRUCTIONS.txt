@@ -1,0 +1,14 @@
+# Favicon Setup Complete
+
+Your layout.tsx has been updated to use favicon.png from the public directory.
+
+To complete the setup:
+1. Save your 'logo (2).png' file as 'favicon.png' in the shingleshop-website/public/ directory
+2. Commit and push to your repository
+3. Netlify will automatically redeploy with your new favicon
+
+Your layout.tsx now includes:
+- favicon.png (main favicon)
+- favicon.ico (fallback)
+- apple-touch-icon.png (iOS devices)
+
